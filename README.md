@@ -1,13 +1,20 @@
-# co69d41f495a95a835f64578c
+# An easy-to-use mobile app to generate your shopping list (by Scrimba)
 
-Quick start:
+This project is deployed at the [link here.](https://groceryshoppingappbymtdt.netlify.app/)
 
-```
-$ npm install
-$ npm start
-````
+### Project Overview
 
-Head over to https://vitejs.dev/ to learn more about using vite
+### Techstack
+
+- HTML
+- CSS
+- Flexbox
+- Javascript
+
+### Challenges
+
+## Resources
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
